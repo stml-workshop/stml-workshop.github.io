@@ -11511,3 +11511,8 @@ html {
 strong {
   font-weight: 800;
 }
+
+#schedule img {
+  aspect-ratio: 1;
+  width: 100%;
+}
